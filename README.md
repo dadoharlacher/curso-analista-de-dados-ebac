@@ -147,3 +147,47 @@ Aula 5: Predição
 Aula 1: Introdução\
 Aula 2: Wrangling\
 Aula 3: Componentes
+
+# Módulo 28 - SQL: Base de dados & Linguagem SQL
+Aula 1: Introdução\
+Aula 2: Base de dados relacionados\
+Aula 3: Introdução ao SQL\
+Aula 4: Introdução ao AWS Console\
+Aula 5: Armazenamento de dados com o AWS S3\
+Aula 6: Exploração de dados com AWS Athena
+
+# Módulo 29 - SQL: Trabalhando com Tabelas
+Aula 1: Criando tabelas\
+Aula 2: Alterando e descartando tabelas\
+Aula 3: Inserindo, atualizando e apagando dados
+
+# Módulo 30 - SQL: Selecionando & Ordenando
+Aula 1: Restrição de dados\
+Aula 2: Selecionando dados\
+Aula 3: Ordenando e limitando os resultados
+
+# Módulo 31 - SQL: Filtrando & Seleção Condicional
+Aula 1: Filtro where com and/ or/ between\
+Aula 2: Filtro where com like/ wildcards\
+Aula 3: Seleção condicional com case/ when /then
+
+# Módulo 32 - SQL: Agregações
+Aula 1: Função count e cláusula group by\
+Aula 2: Função min/ max/ sum/ avg\
+Aula 3: Cláusula having
+
+# Módulo 33 - SQL: Trabalhando com múltiplas tabelas
+Aula 1: Union\
+Aula 2: Junções: inner\
+Aula 3: Junções: cross\
+Aula 4: Junções: left/ right
+
+# Módulo 34 - SQL: Técnicas avançadas
+Aula 1: Subqueries\
+Aula 2: Agregações por particionamento\
+Aula 3: Visões
+
+# Módulo 35 - SQL: Projeto final
+Aula 1: Kaggle\
+Aula 2: EDA e análise de dados\
+Aula 3: Storytelling
